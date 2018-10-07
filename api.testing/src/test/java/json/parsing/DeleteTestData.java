@@ -15,6 +15,7 @@ public class DeleteTestData {
 			
 			file.delete();
 			System.out.println("Deleted the file successfully.");
+			System.out.println("Check if Deleted the file successfully.");
 			
 		} else {
 			System.out.println("File does not exist.");
