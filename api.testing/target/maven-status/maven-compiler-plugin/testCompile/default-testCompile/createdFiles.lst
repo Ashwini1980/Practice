@@ -1,8 +1,0 @@
-json\parsing\DeleteTestData.class
-json\parsing\JsonReadExample.class
-json\parsing\JsonWritingExample.class
-api\testing\OptionsExamples.class
-api\testing\PostExamples.class
-api\testing\DeleteExamples.class
-api\testing\PutExamples.class
-api\testing\GetExamples.class
